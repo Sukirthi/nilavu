@@ -38,6 +38,7 @@ The UX/UI design was done by [enixel](http://enixel.com).
 
 
 ## Getting Started
+* Hello !! Welcome folks!
 
 * Try our Public SaaS  [https://www.megam.co](https://www.megam.co)
 
